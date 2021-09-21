@@ -7,4 +7,3 @@ RUN          npm install
 COPY         . /app/backend
 RUN          ls
 CMD          [ "node", "server.js"]
-© 2021 GitHub, Inc.
